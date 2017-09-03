@@ -7,18 +7,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#000000"
     tools:context=".MainActivity" >
 
-    <TextView
-        android:id="@+id/TextView01"
-        android:layout_width="match_parent"
-        android:layout_height="237dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_weight="1.14"
-        android:maxLines="100"
-        android:scrollbars="vertical"
-        android:text="debug line"
-        android:textSize="18dip" />
-
 </RelativeLayout>
+    <!-- 
+     -->
