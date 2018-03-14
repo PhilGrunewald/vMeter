@@ -45,7 +45,6 @@ public class vMeter extends Activity {
 
     @Override
         protected void onDestroy() {
-            Log.d(TAG, "I shall never die - hahahaaa!");
             super.onDestroy();
         }
 
